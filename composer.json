@@ -1,0 +1,12 @@
+{
+  "name": "dev-test/php-test-code-quality-control",
+  "description": "Test project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dev Test",
+      "email": "dev@localhost"
+    }
+  ]
+}
